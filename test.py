@@ -38,3 +38,6 @@
 
 #a,b = input().split(':')
 #print(a,b,sep=':')      # 4/2
+
+#y,m,d = input().split('.')
+#print(d,m,y,sep = '-')   #4/4
