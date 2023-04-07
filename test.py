@@ -41,3 +41,6 @@
 
 #y,m,d = input().split('.')
 #print(d,m,y,sep = '-')   #4/4
+
+#num = input()
+#print(num.replace("-",""))  #4/7
