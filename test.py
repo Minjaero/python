@@ -44,3 +44,7 @@
 
 #num = input()
 #print(num.replace("-",""))  #4/7
+
+#word = input()
+#for i in word:  
+#    print(i)       #4/8
