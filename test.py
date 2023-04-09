@@ -48,3 +48,10 @@
 #word = input()
 #for i in word:  
 #    print(i)       #4/8
+
+#YMD = input()
+#Y = YMD[:2]   # [A:B] -> A이상 B미만 [A,B)
+#M = YMD[2:4]  # YMD[2:4] -> YMD의 2번째부터 3번째 원소
+#D = YMD[4:]
+
+#print(Y, M, D)     # 4/9
