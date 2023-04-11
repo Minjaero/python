@@ -55,3 +55,6 @@
 #D = YMD[4:]
 
 #print(Y, M, D)     # 4/9
+
+#H, M, S = input().split(":")
+#print(M)                        # 4/11
