@@ -58,3 +58,6 @@
 
 #H, M, S = input().split(":")
 #print(M)                        # 4/11
+
+#word1, word2 = input().split()
+#print(word1 + word2)            #4/14
