@@ -65,5 +65,10 @@
 #num1, num2 = input().split()
 #num1 = int(num1)
 #num2 = int(num2)
-
 #print(num1 + num2)                  #4/15
+
+#num1 = input()
+#num2 = input()
+
+#result = float(num1) + float(num2)
+#print(result)                      #4/16
