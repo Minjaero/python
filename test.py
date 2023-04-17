@@ -72,3 +72,6 @@
 
 #result = float(num1) + float(num2)
 #print(result)                      #4/16
+
+#dec = int(input())
+#print("%x" %dec)                    #4/17
