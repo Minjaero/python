@@ -75,3 +75,6 @@
 
 #dec = int(input())
 #print("%x" %dec)                    #4/17
+
+#dec = int(input())
+#print("%X" %dec)                     #4/18
