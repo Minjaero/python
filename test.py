@@ -78,3 +78,53 @@
 
 #dec = int(input())
 #print("%X" %dec)                     #4/18
+
+#print('I said "Hello" to you')
+#print("Let's go")
+
+#w = int(input("삼각형의 밑변 길이:"))
+#h = int(input("삼각형의 높이:"))
+#area = w * h /2
+#print("삼각형의 면적" , area)
+
+#h = int(input("현재 시:"))
+#m = int(input("현재 분:"))
+#m = m + 20
+#h = (h+m // 60) % 24
+#m = m % 60
+#print("20분 뒤에는 %d시 %d분 입니다." %(h,m))
+
+#num = int(input("숫자입력:"))
+#if num < 0:
+#    num = -1 * num
+#print(num)
+
+#id = input("아이디를 입력하세요:")
+#level = int(input("레벨을 입력하세요:"))
+#if id == 'admin' or level == 1:
+#    print("관리자 입니다.")
+#else :
+#    print('관리자가 아닙니다.')
+
+#a = int(input("첫번째 수:"))
+#b = int(input("두번째 수:"))
+#c = int(input("세번째 수:"))
+
+#max = a
+#if max < b:
+#    max = b
+#if max < c:
+#    max = c
+#    print('가장 큰 수는', max, "입니다.")
+
+age = int(input("나이입력:")) 
+if age <= 7:
+    print("어린이")
+elif age <= 13:
+    print("초등학생")
+elif age <= 16:
+    print("중학생")
+elif age <= 19:
+    print("고등학생")
+else:
+    print("성인")
