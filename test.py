@@ -117,14 +117,42 @@
 #    max = c
 #    print('가장 큰 수는', max, "입니다.")
 
-age = int(input("나이입력:")) 
-if age <= 7:
-    print("어린이")
-elif age <= 13:
-    print("초등학생")
-elif age <= 16:
-    print("중학생")
-elif age <= 19:
-    print("고등학생")
-else:
-    print("성인")
+#age = int(input("나이입력:")) 
+#if age <= 7:
+#    print("어린이")
+#elif age <= 13:
+#    print("초등학생")
+#elif age <= 16:
+#    print("중학생")
+#elif age <= 19:
+#    print("고등학생")
+#else:
+#    print("성인")
+
+#num = int(input("숫자입력:"))
+#while num != 0:
+#    print(num % 10, end = ' ')
+#    num = num //10
+
+#import random
+
+#cnt = 0
+#guess = 0
+#answer = random.randint(1,100)
+#print('정답:', answer)
+#print('1부터 100까지의  숫자를 맞히기')
+
+#while answer != guess:
+#    guess = int(input("숫자를 맞혀보세요:"))
+#    cnt += 1
+#    if guess > answer:
+#        print("높음")
+#    elif guess < answer:
+#        print("낮음")
+        
+#print("축하합니다. 시도횟수 =" , cnt)
+
+#n = input()
+#hex = int(n, 16)
+
+#print("%o" %hex)            # 4/20
