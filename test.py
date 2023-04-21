@@ -156,3 +156,6 @@
 #hex = int(n, 16)
 
 #print("%o" %hex)            # 4/20
+
+#c = ord(input())
+#print(c)                    #4/21
