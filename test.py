@@ -159,3 +159,6 @@
 
 #c = ord(input())
 #print(c)                    #4/21
+
+n = int(input())
+print(chr(n))
