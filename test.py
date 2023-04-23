@@ -160,5 +160,8 @@
 #c = ord(input())
 #print(c)                    #4/21
 
-n = int(input())
-print(chr(n))
+#n = int(input())
+#print(chr(n))                #4/22
+
+#n = int(input())
+#print(-n)                      #4/23  
