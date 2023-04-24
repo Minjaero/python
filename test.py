@@ -165,3 +165,6 @@
 
 #n = int(input())
 #print(-n)                      #4/23  
+
+#s = ord(input())
+#print(chr(s+1))               #4/24
