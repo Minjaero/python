@@ -172,3 +172,7 @@
 #a, b = input().split()
 #result = int(a) - int(b)
 #print(result)                 #4/25
+
+#a, b = input().split()
+#result = float(a) * float(b)
+#print(result)                   #4/26
